@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sub">SubActivity</string>
+
+    <string name="TextView">Please enter a string:</string>
+    <string name="mainButton">Send</string>
+    <string name="subButton">SendBack</string>
+
+</resources>
